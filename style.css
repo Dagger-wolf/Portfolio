@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+}
+#Apps{
+    background:linear-gradient(#830094 50%,#0020F0 100%);
+}
+.line{
+    height: 6px;
+    width: 80px;
+    background-color:rgb(47, 0, 255);
+    margin: 4px auto;
+}
+#mycarousel{
+    background-color:firebrick;
+}
+.carousel-inner p{
+    margin-top:20px;
+    color:floralwhite;
+    font-size:xx-large;
+}
+#mycarousel img{
+    height:400pt;
+    margin-top:70px;
+}
